@@ -1,4 +1,4 @@
-爬取淘宝MM的爬虫，
+爬取淘宝MM的爬虫
 使用了pyquery，requests库
 以及爬取动态网页的selenium和phantomJS
 技术还包括正则表达式等
